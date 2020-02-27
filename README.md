@@ -34,6 +34,7 @@ maybe some ski musik or sound fx, but thats only optional
 ### Youtube:
 Layers: https://www.youtube.com/watch?v=TnWrJoPCfco
 Date or time: https://www.youtube.com/watch?v=ZmIoWlVN_m0
+Toon Shader: https://www.youtube.com/watch?v=n3ZXo7GUiAo
 
 ### Bilder:
 Schneeberg: https://www.google.com/search?q=winter+mountain+wallpaper&client=safari&rls=en&sxsrf=ALeKk02zfYRyUYRjpZYgkYy2O7qoGQojiA:1582213913797&tbm=isch&source=iu&ictx=1&fir=SXWxLPFZt6a_pM%253A%252CF0Kz5uy5dfM87M%252C_&vet=1&usg=AI4_-kRwjPkyotoFMlB5ycDaiKOZpvPcQw&sa=X&ved=2ahUKEwiy-qiSvuDnAhVZwAIHHUbmDTIQ9QEwAnoECAoQCA#imgrc=SXWxLPFZt6a_pM:
