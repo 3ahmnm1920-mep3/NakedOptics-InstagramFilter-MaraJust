@@ -1,6 +1,6 @@
 # NakedOptics-InstagramFilter-MaraJust
 
-# Project Description
+## Project Description
 
 Instagram Filter for Ski Maskes of Naked Optics
 
@@ -29,9 +29,9 @@ maybe some ski musik or sound fx, but thats only optional
 3. HDRI Background
 4. Illustrator Bild (Berge) im Hintergrund; Schnee; Uhrzeit im rechten oberen Eck;
 
-### References
+## References
 
-## Youtube:
+### Youtube:
 Layers: https://www.youtube.com/watch?v=TnWrJoPCfco
 Date or time: https://www.youtube.com/watch?v=ZmIoWlVN_m0
 
