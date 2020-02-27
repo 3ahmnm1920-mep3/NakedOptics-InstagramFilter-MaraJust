@@ -8,8 +8,8 @@ Instagram Filter for Ski Maskes of Naked Optics
 
 ## Concept
 
-Snow in for- and background; in the background should be mountains either an illustrator graphic made by me or a reference picture out of the internet;
-through smile the ski mask texture should take up the glassfront and change texture;
+Snow in for- and background; in the background should be mountains in comic style either an illustrator graphic made by me or a reference picture out of the internet with photshop filter;
+through smile the ski mask texture should take up the glassfront and change texture (also in comic texture);
 time in the right top corner
 NakedOptics Logo in the bottom corner
 around the neck of the user should be a scarf
