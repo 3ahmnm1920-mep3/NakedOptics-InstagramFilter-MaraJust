@@ -21,6 +21,7 @@ time in the right top corner
 NakedOptics Logo in the bottom corner
 around the neck of the user should be a scarf
 maybe some ski musik or sound fx, but thats only optional
+Naked Optics Logo is animated as a little eye catcher
 
 ### Idea
 
