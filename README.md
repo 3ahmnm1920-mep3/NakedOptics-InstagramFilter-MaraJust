@@ -8,12 +8,12 @@ Instagram Filter for Ski Masks of Naked Optics
 
 ### Screenshots:
 
-<img src = "./ImagesAndVideos/Bild1.png" width = 500>
-<img src = "./ImagesAndVideos/Bild2.png" width = 500>
+<img src = "./PhotosVideos/Bild1.png" width = 500>
+<img src = "./PhotosVideos/Bild2.JPG" width = 500>
 
 ### Screenvideo:
 
-<gif src = "./ImagesAndVideos/video1.gif" width = 500>
+<img src = "./PhotosVideos/video1.mov" width = 500>
 
 #### Moodboard:
 
