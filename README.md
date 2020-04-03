@@ -9,7 +9,6 @@ Instagram Filter for Ski Masks of Naked Optics
 ### Screenshots:
 
 <img src = "./PhotosVideos/Bild1.png" width = 500>
-<img src = "./PhotosVideos/Bild2.JPG" width = 500>
 
 ### Screenvideo:
 
